@@ -1,1 +1,38 @@
-
+[
+    {
+        "usuario": "C4Dev",
+        "senha": "dev",
+        "hwid": "983f24c329c3093a",
+        "validade": "2051-06-27"
+    },
+    {
+        "usuario": "Usuario2",
+        "senha": "senha2",
+        "hwid": "hwid2",
+        "validade": "2023-12-31"
+    },
+    {
+        "usuario": "Usuario3",
+        "senha": "senha3",
+        "hwid": "hwid3",
+        "validade": "2024-01-01"
+    },
+    {
+        "usuario": "Usuario3",
+        "senha": "senha3",
+        "hwid": "hwid3",
+        "validade": "2024-01-01"
+    },
+    {
+        "usuario": "Usuario3",
+        "senha": "senha3",
+        "hwid": "hwid3",
+        "validade": "2024-01-01"
+    },
+    {
+        "usuario": "Usuario3",
+        "senha": "senha3",
+        "hwid": "hwid3",
+        "validade": "2024-01-01"
+    }
+]
